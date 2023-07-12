@@ -4,6 +4,7 @@ Mini Calculator Project with GUI - README
 This project is a mini calculator implemented in Java with a graphical user interface (GUI). It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division on two input numbers using a graphical interface.
 <br>
 Calculator Screen
+<br>
 ![mini_calculator](https://github.com/lrkaushal/mini_calculator.github.io/assets/73939193/28668b7b-a673-4531-bdc8-bb2dddb31f51)
 
 <br>
@@ -24,15 +25,21 @@ Division:
 Performs the division operation on two numbers.
 Prerequisites
 <br>
+<br>
+<br>
 Java Development Kit (JDK) installed on your system.
 Basic understanding of Java programming language.
 Familiarity with GUI programming in Java (e.g., Swing or JavaFX).
 Getting Started
 <br>
+<br>
+<br>
 Clone the project repository or download the source code files.
 Open the project in your preferred Java Integrated Development Environment (IDE).
 Build and compile the project to ensure there are no errors.
 Usage
+<br>
+<br>
 <br>
 Run the program.
 The calculator GUI will appear.
@@ -40,6 +47,8 @@ Enter the first number in the appropriate input field.
 Enter the second number in the appropriate input field.
 Click on the desired arithmetic operation button.
 The result will be displayed in the output field.
+<br>
+<br>
 <br>
 Code Structure
 <br>
