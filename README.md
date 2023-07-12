@@ -2,7 +2,11 @@ Mini Calculator Project with GUI - README
 <br>
 <br>
 This project is a mini calculator implemented in Java with a graphical user interface (GUI). It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division on two input numbers using a graphical interface.
+<br>
+Calculator Screen
+![mini_calculator](https://github.com/lrkaushal/mini_calculator.github.io/assets/73939193/28668b7b-a673-4531-bdc8-bb2dddb31f51)
 
+<br>
 Features
 <br>
 <br>
